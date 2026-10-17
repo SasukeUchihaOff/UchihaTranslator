@@ -1,1 +1,1 @@
-# SU_TranslatorProject
+# UchihaTranslator
